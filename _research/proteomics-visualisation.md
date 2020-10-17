@@ -1,5 +1,5 @@
 ---
-title: "Proteomics Visualisation"
+title: "Proteomics analysis web app"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research

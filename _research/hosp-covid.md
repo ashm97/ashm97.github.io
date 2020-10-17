@@ -1,7 +1,7 @@
 ---
-title: "Hospital-aquired covid-19 surveillance system"
+title: "NHS response to hospital-aquired Covid-19"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/Hosp_forecast.png' alt=''>"
 collection: research
 order_number: 55
 ---

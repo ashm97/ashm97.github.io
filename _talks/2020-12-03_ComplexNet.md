@@ -1,5 +1,5 @@
 ---
-title: "Talk title TBC"
+title: "Transmission of healthcare-acquired infections with genomic validation"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2020-12-03_ComplexNet
