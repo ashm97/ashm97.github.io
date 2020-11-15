@@ -1,7 +1,7 @@
 ---
 title: "Proteomics analysis web app"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/Loratario_1.png' alt=''>"
 collection: research
 order_number: 99
 ---

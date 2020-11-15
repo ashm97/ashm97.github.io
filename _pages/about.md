@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Applied Mathematics PhD student at [Imperial College London](https://www.imperial.ac.uk/) working between the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease) and the [EPSRC Centre for Mathematics of Precision Healthcare](https://www.imperial.ac.uk/mathematics-precision-healthcare). I am a data scientist by training with a background in computer science, but I have just enough expertise in infectious disease and epidemiology to make some trouble. My [research](research) and broader interests are all around generating data-driven insight into disease, and in my PhD I am exploring [Antimicrobial Resistance](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance#:~:text=What%20is%20antimicrobial%20resistance%3F,spread%2C%20severe%20illness%20and%20death.) (AMR) using complex networks, [funded](funding) primarily by a [Medical Research Foundation](https://www.medicalresearchfoundation.org.uk/) scholarship in AMR Research. 
+Welcome! I am an Applied Mathematics PhD student at [Imperial College London](https://www.imperial.ac.uk/) working between the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease) and the [EPSRC Centre for Mathematics of Precision Healthcare](https://www.imperial.ac.uk/mathematics-precision-healthcare). I am a data scientist by training with a background in computer science, but I have just enough expertise in infectious disease and epidemiology to make some trouble. My [research](research) and broader interests are all around generating data-driven insight into disease, and in my PhD I am exploring [Antimicrobial Resistance](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance#:~:text=What%20is%20antimicrobial%20resistance%3F,spread%2C%20severe%20illness%20and%20death.) (AMR) using complex networks.
 
 ## Current research motivation
 
@@ -18,8 +18,6 @@ Typically, well-known molecular drivers are cited to explain the rise of modern 
   <img src="/images/amr_explained.jpg" height="400px" width="600px" />
 </p>
 
-<i> Illistration of how antimicrobial use can lead to AMR.</i>
-
 AMR does not occur in single individuals or isolated environments alone, but is unfolding over a highly interconnected and dynamic world. All these interactions between individuals facilitate AMRs spread, already we can see the movement of AMR both within countries and between countries ... AMR respects no borders!
 
 My approach to AMR is to capture and understand this spread by looking at the structure of movement and interactions of individuals carrying it. Networks naturally capture this, and have recently shown great insight to a range of spreading phenomena, but not yet detailed in AMR. Hence, I'm working to explore what networks can tell us about AMR! 
@@ -28,7 +26,6 @@ My approach to AMR is to capture and understand this spread by looking at the st
   <img src="/images/social-network.svg" height="400px" width="500px" />
 </p>
 
-<i> Example of a network capturing contacts between individuals.</i>
 
 ## News & updates
 
@@ -37,7 +34,7 @@ My approach to AMR is to capture and understand this spread by looking at the st
 * 2020/09 - Abstract <i>Revealing transmission of healthcare-associated infections using network-constrained patient trajectories</i> invited to give a talk at [Complex Networks 2020](https://complexnetworks.org/).
 * 2020/09 - Conference talk <i>Mining network constrained trajectories of hospital patients with healthcare-associated infections<i> at [Netsci2020](https://netsci2020.netscisociety.net/).
 * 2020/07 - Started a 3-month funded position in the [EPSRC Centre for Mathematics of Precision Healthcare](https://www.imperial.ac.uk/mathematics-precision-healthcare) to research network tools for combating healthcare-assoicated infections.
-* 2020/06 - Extended Absatrat <i>Interrupting disease transmission in healthcare networks using higher-order models</i> invited to publish in the [Applied Network Science](https://appliednetsci.springeropen.com/) Special Issue of Epidemics and Dynamics on Networks.
+* 2020/06 - Extended Abstract <i>Interrupting disease transmission in healthcare networks using higher-order models</i> invited to publish in the [Applied Network Science](https://appliednetsci.springeropen.com/) Special Issue of Epidemics and Dynamics on Networks.
 * 2020/03 - Began work with [Imperial College NHS trust](https://www.imperial.nhs.uk/) to plan for incoming covid-19 patients.
 * 2020/02 - Awarded [Global Fellows Programme](https://www.imperial.ac.uk/study/pg/graduate-school/global-fellows-programme/) 2020 travel award in Health Data & Technology.
 * 2019/12 - Volunteered at Imperial College London's Infection Lates Program. Check out more 👉 [here](https://www.imperial.ac.uk/news/195814/novembers-2020-imperial-lates-event/).
@@ -45,6 +42,6 @@ My approach to AMR is to capture and understand this spread by looking at the st
 * 2019/09 - Handed in masters thesis <i>Differentialble diagnosis of bacterial and viral infection: a data-driven meta analysis</i> achieving a distinction on both the final research project and overall grade.
 * 2019/06 - Student Travel Grant from [Defense Threat Reduction Agency](https://www.dtra.mil/) to present at the Chemical and Biological Defense Science & Technology Conference 2019, USA. 
 * 2019/05 - Received and gladly accepted PhD scholarship in antimicrobial-resistance research from the [Medical Research Foundation](https://www.medicalresearchfoundation.org.uk/) at [Imperial College London](https://www.imperial.ac.uk/).
-* 2018/09 - awarded MRes studentship (funded by [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)) to research differentiable signatures of bacterial and viral infection, based in the [University of Liverpool](https://www.liverpool.ac.uk/).
+* 2018/09 - Awarded MRes studentship (funded by [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)) to research differentiable signatures of bacterial and viral infection, based in the [University of Liverpool](https://www.liverpool.ac.uk/).
 * 2018/07 - 3-month genomics data science internship with the [Computational Biology Facility](https://www.liverpool.ac.uk/computational-biology-facility/).
 * 2018/01 - Course demonstrator for second year computational finance module.

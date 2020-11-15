@@ -1,5 +1,5 @@
 ---
-title: "Signatures of bacterial and viral infection"
+title: "Classifying bacterial and viral infections"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Gene_network.png' alt=''>"
 collection: research
@@ -10,17 +10,19 @@ Multivariate feature selection can often be a black box. This is especially the 
 
 ## Article
 
-Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
+<b>Myall, A.C.</b>, Perkins, S., Rushton, D., Jonathan, D., Spencer, P., Jones, A.R. and Antczak, P., 2020. <i>Identifying robust biomarkers of infection through an omics-based meta-analysis.</i> medRxiv.
 
-> Do rebels target civilians as part of the process of establishing control in their territories? This research note shows that transition periods after rebels gain territorial control are remarkably violent for civilians. Speaking to the civilian victimization and rebel governance literature, we investigate the immediate time period after rebels successfully capture and hold territory. We argue that rebels use violence to gain compliance in newly captured territories until they are able to build up local capacities and institutions for peaceful governance. To test this argument, we draw on methodological advances in integrating event data and combine multiple datasets to study patterns of violence perpetrated by the Revolutionary United Front in Sierra Leone from 1997-2001. The findings of our spatiotemporal analysis show that civilian targeting increases in the period after rebels capture territory from the government compared to areas without territorial takeover, suggesting that life under the roof of rebels is initially more dangerous for civilians.
+A fundamental problem for disease treatment is that while antibiotics are a powerful counter to bacteria, they are ineffective against viruses. Often, bacterial and viral infections are confused due to their similar symptoms and lack of rapid diagnostics. With many clinicians relying primarily on symptoms for diagnosis, overuse and misuse of modern antibiotics are rife, contributing to the growing pool of antibiotic resistance.  To ensure a given individual receives optimal treatment given their disease state and to reduce over-prescription of antibiotics leading to antimicrobial resistance, the host response can be measured quickly to distinguish between the two states. To establish a predictive biomarker panel of disease state (viral/bacterial/no-infection) we conducted a meta-analysis of human blood infection studies using Machine Learning (ML). We focused on publicly available gene expression data from two widely used platforms, Affymetrix and Illumina microarrays as they represented a significant proportion of the available data. We were able to develop multi-class models with high accuracies with our best model predicting 93% of bacterial and 89% viral samples correctly. To compare the selected features in each of the different technologies, we reverse engineered the underlying molecular regulatory network and explored the neighbourhood of the selected features. This highlighted that although on the gene-level the models differed, they did contain genes from the same areas of the network. Specifically, this convergence was to pathways including the Type I interferon Signalling Pathway, Chemotaxis, Apoptotic Processes, and Inflammatory / Innate Response. 
 
-[Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research}<!--, [[Replication Archive]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI), [[GitHub Repo]](https://github.com/jayrobwilliams/Peace-Agreement-Strength)-->
+<p align="center">
+  <img src='/images/research/biomarkers_gene_sel.png'  />
+</p>
+
+<i>Genes which were highly selected amongst optimal models</i>
+
+[Article](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa892/5868508){: .btn--research} 
+
+[GitHub Repo](https://github.com/ashm97/Developing-an-infection-state-predictive-model){: .btn--research}
 
 
-## Peer reviewed abstracts
 
-William G. Nomikos and Rob Williams. "The Effects of UN Peacekeeping on Civilian Victimization: Evaluating Microlevel Evidence."
-
-> Peacekeeping operations are among the most visible and impactful of United Nations activities. These missions have proven effective at protecting civilians in both active conflicts and post-conflict societies. However, recent research suggests that United Nations peacekeepers do not protect civilians equally from all types of violence. Peacekeepers require the consent of the government to gain access to specific areas of the state's territory, and so must balance their need for access with their duty to protect civilians from state-perpetrated violence. We employ microlevel data to explore where different types of peacekeeping personnel are deployed within conflicts and how these decisions affect the overall effectiveness of United Nations efforts to protect civilians.
-
-[Abstract](/files/pdf/research/UNPoC.pdf){: .btn--research}
