@@ -1,7 +1,7 @@
 ---
 title: "Higher-order network models"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Discrete_steps.jpg' alt=''>"
+excerpt: "<img src='/images/research/patient_mem_net.png' alt=''>"
 collection: research
 order_number: 50
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Transmission of healthcare-acquired infections with genomic validation"
+title: "Background transmission of healthcare-acquired infections with genomic validation"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2020-12-03_ComplexNet
@@ -8,3 +8,6 @@ date: 2020-12-03
 location: "Madrid, Spain (Virtual)"
 ---
 
+<p align="center">
+  <img src="/images/talks/Complex_networks_temporal_fig.png"  />
+</p>
